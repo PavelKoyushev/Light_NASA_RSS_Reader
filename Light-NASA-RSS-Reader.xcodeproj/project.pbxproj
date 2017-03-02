@@ -13,6 +13,14 @@
 		A709EDEB1E2B7917007C3AA9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A709EDEA1E2B7917007C3AA9 /* Images.xcassets */; };
 		A709EDF01E2B7ABF007C3AA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A709EDEE1E2B7ABF007C3AA9 /* Main.storyboard */; };
 		A709EDF21E2B7AFF007C3AA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A709EDF11E2B7AFF007C3AA9 /* AppDelegate.swift */; };
+		A70FDF261E68912300E482B0 /* nasa1.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF1E1E68912300E482B0 /* nasa1.png */; };
+		A70FDF271E68912300E482B0 /* nasa01.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF1F1E68912300E482B0 /* nasa01.png */; };
+		A70FDF281E68912300E482B0 /* nasa2.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF201E68912300E482B0 /* nasa2.png */; };
+		A70FDF291E68912300E482B0 /* nasa02.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF211E68912300E482B0 /* nasa02.png */; };
+		A70FDF2A1E68912300E482B0 /* nasa3.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF221E68912300E482B0 /* nasa3.png */; };
+		A70FDF2B1E68912300E482B0 /* nasa4.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF231E68912300E482B0 /* nasa4.png */; };
+		A70FDF2C1E68912300E482B0 /* nasa5.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF241E68912300E482B0 /* nasa5.png */; };
+		A70FDF2D1E68912300E482B0 /* nasa6.png in Resources */ = {isa = PBXBuildFile; fileRef = A70FDF251E68912300E482B0 /* nasa6.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		A709EDEF1E2B7ABF007C3AA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "Light-NASA-RSS-Reader/Base.lproj/Main.storyboard"; sourceTree = SOURCE_ROOT; };
 		A709EDF11E2B7AFF007C3AA9 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "Light-NASA-RSS-Reader/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
 		A709EDF31E2B7B0D007C3AA9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Light-NASA-RSS-Reader/Info.plist"; sourceTree = SOURCE_ROOT; };
+		A70FDF1E1E68912300E482B0 /* nasa1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa1.png; path = "Light-NASA-RSS-Reader/images/nasa1.png"; sourceTree = "<group>"; };
+		A70FDF1F1E68912300E482B0 /* nasa01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa01.png; path = "Light-NASA-RSS-Reader/images/nasa01.png"; sourceTree = "<group>"; };
+		A70FDF201E68912300E482B0 /* nasa2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa2.png; path = "Light-NASA-RSS-Reader/images/nasa2.png"; sourceTree = "<group>"; };
+		A70FDF211E68912300E482B0 /* nasa02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa02.png; path = "Light-NASA-RSS-Reader/images/nasa02.png"; sourceTree = "<group>"; };
+		A70FDF221E68912300E482B0 /* nasa3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa3.png; path = "Light-NASA-RSS-Reader/images/nasa3.png"; sourceTree = "<group>"; };
+		A70FDF231E68912300E482B0 /* nasa4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa4.png; path = "Light-NASA-RSS-Reader/images/nasa4.png"; sourceTree = "<group>"; };
+		A70FDF241E68912300E482B0 /* nasa5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa5.png; path = "Light-NASA-RSS-Reader/images/nasa5.png"; sourceTree = "<group>"; };
+		A70FDF251E68912300E482B0 /* nasa6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nasa6.png; path = "Light-NASA-RSS-Reader/images/nasa6.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +56,7 @@
 		48A6A58D198A03A600A18304 = {
 			isa = PBXGroup;
 			children = (
+				A7F9E72B1E688B48007D0A27 /* New Group */,
 				48A6A598198A03A600A18304 /* Light-NASA-RSS-Reader */,
 				48A6A597198A03A600A18304 /* Products */,
 			);
@@ -74,6 +91,21 @@
 				A709EDF31E2B7B0D007C3AA9 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A7F9E72B1E688B48007D0A27 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				A70FDF1E1E68912300E482B0 /* nasa1.png */,
+				A70FDF1F1E68912300E482B0 /* nasa01.png */,
+				A70FDF201E68912300E482B0 /* nasa2.png */,
+				A70FDF211E68912300E482B0 /* nasa02.png */,
+				A70FDF221E68912300E482B0 /* nasa3.png */,
+				A70FDF231E68912300E482B0 /* nasa4.png */,
+				A70FDF241E68912300E482B0 /* nasa5.png */,
+				A70FDF251E68912300E482B0 /* nasa6.png */,
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +169,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A70FDF2C1E68912300E482B0 /* nasa5.png in Resources */,
+				A70FDF281E68912300E482B0 /* nasa2.png in Resources */,
+				A70FDF261E68912300E482B0 /* nasa1.png in Resources */,
+				A70FDF271E68912300E482B0 /* nasa01.png in Resources */,
+				A70FDF2B1E68912300E482B0 /* nasa4.png in Resources */,
 				A709EDEB1E2B7917007C3AA9 /* Images.xcassets in Resources */,
+				A70FDF291E68912300E482B0 /* nasa02.png in Resources */,
+				A70FDF2D1E68912300E482B0 /* nasa6.png in Resources */,
+				A70FDF2A1E68912300E482B0 /* nasa3.png in Resources */,
 				A709EDF01E2B7ABF007C3AA9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
